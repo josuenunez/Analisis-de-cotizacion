@@ -1,1 +1,1 @@
-select top 10* from cotcab
+select top 10* from cotcab as ct
